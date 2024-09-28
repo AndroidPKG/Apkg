@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/.GIT/Apkg/src/apkinstall.sh",
+      "selection": {
+        "end": {
+          "column": 55,
+          "index": 1570,
+          "line": 47
+        },
+        "start": {
+          "column": 55,
+          "index": 1570,
+          "line": 47
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/.GIT/Apkg/src/apkinstall.sh"
+}
