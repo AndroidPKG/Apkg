@@ -3,6 +3,8 @@
 <em> An Android CLI Package Manager for Termux and ADB Shell </em>
 </div>
 
+## License
+Thus Project is licensed under BSD-3-Clause
 ***
 ***
 
