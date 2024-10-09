@@ -3,8 +3,20 @@
 <em> An Android CLI Package Manager for Termux and ADB Shell </em>
 </div>
 
+## Introduction
+AndroidPKG (aka, Apkg) is a CLI android package manager for APKs, It is still heavily a work in progress.
+
+The project is made so people can access and download APKs simply from `adbshell` or Termux, without the need of usingn a GUI store, It is also mainly
+made for debugging purposes, Though, using it for general purpose is also another feature of it.
+
+## Contribution
+You can provide ideas or help us in develop via issues and pull requests, which are heavily appreciated.
+
+
 ## License
 Thus Project is licensed under BSD-3-Clause
+
+
 ***
 ***
 
