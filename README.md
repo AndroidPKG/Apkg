@@ -1,4 +1,5 @@
 <div align="center">
+<img src="logo.png">
 <h1> Apkg </h1>
 <em> An Android CLI Package Manager for Termux and ADB Shell </em>
 </div>
